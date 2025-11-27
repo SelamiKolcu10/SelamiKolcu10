@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Merhaba, Ben Selami Kolcu
 
-<!--
-**SelamiKolcu10/SelamiKolcu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bandırma Onyedi Eylül Üniversitesi | Bilgisayar Mühendisliği (İngilizce)
+Yazılım geliştirme, algoritmalar ve sistem tasarımı üzerine kendimi geliştiren bir bilgisayar mühendisliği öğrencisiyim. Öğrendiklerimi projelerle pekiştirmeyi, yeni teknolojiler denemeyi ve sürekli kendimi güncel tutmayı hedefliyorum.
 
-Here are some ideas to get you started:
+🚀 İlgi Alanlarım
+Yazılım Geliştirme
+Algoritmalar & Veri Yapıları
+SQL, Oracle, Veritabanı Tasarımı
+Python ile proje geliştirme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Kullandığım Teknolojiler
+Diller:C,C++,JAVA, C#, Python, SQL
+Veritabanları: Oracle, SQL Server, SQLite
+
+Araçlar: Git, GitHub, VS Code, Visual Studio
+
+📌 Üzerinde Çalıştığım Projeler
+
+Oracle tabanlı spor salonu üyelik sistemi
+Fitness veritabanı yönetim sistemi (üyelik, ölçüm, paket, ödeme modülleri)
+Algoritma ödevleri ve grid tabanlı çözümler
+
+🎯 Hedefim
+
+Teorik bilgiyi pratik mühendislik becerileriyle birleştirip gerçek problemlere ölçeklenebilir, temiz ve sürdürülebilir çözümler üreten bir yazılım mühendisi olmak.
