@@ -6,7 +6,7 @@ Yazılım geliştirme, algoritmalar ve sistem tasarımı üzerine kendimi geliş
 🚀 İlgi Alanlarım
 Yazılım Geliştirme
 Algoritmalar & Veri Yapıları
-SQL, Oracle, Veritabanı Tasarımı
+SQL, Oracle, Veritabanı Tasarımı,
 Python ile proje geliştirme
 
 🛠️ Kullandığım Teknolojiler
