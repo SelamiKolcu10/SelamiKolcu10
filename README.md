@@ -10,7 +10,11 @@ SQL, Oracle, Veritabanı Tasarımı,
 Python ile proje geliştirme
 
 🛠️ Kullandığım Teknolojiler
-Diller:C,C++,JAVA, C#, Python, SQL
+Diller:C++ ile Veri Yapıları,
+JAVA ile OOP and ADVANCED PROGRAMMİNG,
+C# ile  VİSUAL PROGRAMMİNG,
+Python, 
+SQL,
 
 Veritabanları: Oracle, SQL Server, SQLite
 
